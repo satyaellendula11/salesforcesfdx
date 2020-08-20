@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "dreampackage",
+            "versionNumber": "1.0.0.NEXT",
+            "versionName": "Winter '19"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "45.0",
+    "packageAliases": {
+        "dreampackage": "0Ho4p000000k9hkCAA",
+        "dreampackage@1.0.0-1": "04t4p000001lijsAAA"
+    }
+}
